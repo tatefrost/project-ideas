@@ -1,0 +1,16 @@
+Final project ideas:
+
+1. "Stalk star" 
+  - A web application where users may sign up to receive email notifications that alert them to new music released by artists they enjoy. Users can also receive news updates or general info about musicians as well
+
+2. "Car finder"
+  - A web application which would be a service to help users decide on a car to purchase by filtering through a database 
+
+3. "Ecommerce"
+  - A mock Ecommerce website which would sell fake guitars/ musical equipment 
+
+4. "Py cribbage"
+  - A web application where users can play games of cribbage against a computer program, and where they would be able to sign in to save games and information 
+
+5. "Random text generator"
+  - A web application that users can sign up to receive random or pre written fake texts and emails at a specified interval to cause others to think they are much more popular than they really are
